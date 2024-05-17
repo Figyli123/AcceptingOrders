@@ -1,0 +1,8 @@
+
+
+A console program for accepting orders with connection to the PostgreSQL database.
+
+The connection method is implemented via keys. They are stored in "resources".
+
+The connection method itself is in the package "Utils".
+
